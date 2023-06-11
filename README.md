@@ -12,3 +12,5 @@ These goals are in the service of testing the following hypotheses:
 - Populations in decline are, by definition, maladapted and displaced from their local fitness peaks.
 - Maladapted populations experience stronger directional selection than well-adapted populations.
 - This strong selection will leave signatures in the genome.
+
+By estimating selection in the genome while estimating population trends for each sample's collection week and location, we can test the hypothesis that populations that are displaced from local fitness optima by environmental change evolve in response.
