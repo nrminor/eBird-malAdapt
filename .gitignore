@@ -1,3 +1,14 @@
+# Manuscript project-specific files
+
+# Nextflow files
+work/
+sandbox/
+results/
+.nextflow/
+.nextflow.log*
+*.png
+*.dot
+
 # macOS files
 .DS_Store
 ._*
